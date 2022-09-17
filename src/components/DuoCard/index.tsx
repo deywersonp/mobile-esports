@@ -35,7 +35,7 @@ export function DuoCard({ data, onConnect }: Props) {
 
       <DuoInfo
         label="Tempo de jogo"
-        value={`${data.yearsPlaying} anos}`}
+        value={`${data.yearsPlaying} ano(s)`}
       />
 
       <DuoInfo
